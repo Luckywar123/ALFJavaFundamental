@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d18d2692-457e-44c1-bdfb-9cd5d1c4ce0b" name="Changes" comment="POST TEST DAY 4">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Porsttest7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,7 +86,7 @@
       <recent name="com.alfjavafundamental" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.alfjavafundamental.Prak1.Main">
+  <component name="RunManager" selected="Application.com.alfjavafundamental.Porsttest7.Main">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HelloWorld" />
       <module name="ALFJavaFundamental" />
@@ -112,6 +108,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.alfjavafundamental.Porsttest7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.Porsttest7.Main" />
+      <module name="ALFJavaFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alfjavafundamental.Porsttest7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.alfjavafundamental.Porsttest7.Main" />
         <item itemvalue="Application.com.alfjavafundamental.Prak1.Main" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Application.HelloWorld" />
@@ -176,7 +186,7 @@
       <workItem from="1698320839769" duration="2411000" />
       <workItem from="1698465936410" duration="884000" />
       <workItem from="1698665975478" duration="347000" />
-      <workItem from="1698724083801" duration="11544000" />
+      <workItem from="1698724083801" duration="13372000" />
     </task>
     <task id="LOCAL-00001" summary="Pom push">
       <option name="closed" value="true" />
@@ -247,6 +257,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Porsttest7/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
