@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d18d2692-457e-44c1-bdfb-9cd5d1c4ce0b" name="Changes" comment="POST TEST DAY 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Porsttest7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Porsttest7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PostTest_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <recent name="com.alfjavafundamental" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.alfjavafundamental.Porsttest7.Main">
+  <component name="RunManager" selected="Application.com.alfjavafundamental.PostTest_7.Main">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HelloWorld" />
       <module name="ALFJavaFundamental" />
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.alfjavafundamental.Porsttest7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.Porsttest7.Main" />
+    <configuration name="com.alfjavafundamental.PRAKTIKUM_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.PRAKTIKUM_1.Main" />
       <module name="ALFJavaFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alfjavafundamental.Porsttest7.*" />
+          <option name="PATTERN" value="com.alfjavafundamental.PRAKTIKUM_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.alfjavafundamental.Prak1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.Prak1.Main" />
+    <configuration name="com.alfjavafundamental.PostTest_7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.PostTest_7.Main" />
       <module name="ALFJavaFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alfjavafundamental.Prak1.*" />
+          <option name="PATTERN" value="com.alfjavafundamental.PostTest_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,8 +160,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.alfjavafundamental.Porsttest7.Main" />
-        <item itemvalue="Application.com.alfjavafundamental.Prak1.Main" />
+        <item itemvalue="Application.com.alfjavafundamental.PostTest_7.Main" />
+        <item itemvalue="Application.com.alfjavafundamental.PRAKTIKUM_1.Main" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.org.example.Main.Main" />
@@ -186,7 +187,7 @@
       <workItem from="1698320839769" duration="2411000" />
       <workItem from="1698465936410" duration="884000" />
       <workItem from="1698665975478" duration="347000" />
-      <workItem from="1698724083801" duration="13372000" />
+      <workItem from="1698724083801" duration="14007000" />
     </task>
     <task id="LOCAL-00001" summary="Pom push">
       <option name="closed" value="true" />
@@ -250,7 +251,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/Main.java</url>
           <line>5</line>
           <properties class="com.alfjavafundamental.Main">
             <option name="EMULATED" value="true" />
@@ -259,7 +260,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Porsttest7/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PostTest_7/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
