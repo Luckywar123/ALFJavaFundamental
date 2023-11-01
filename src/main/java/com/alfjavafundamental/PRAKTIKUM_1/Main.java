@@ -1,4 +1,4 @@
-package com.alfjavafundamental.Prak1;
+package com.alfjavafundamental.PRAKTIKUM_1;
 /*
  Created By IntelliJ IDEA 2023.2.3 (Ultimate Edition)
  Build #IU-232.10203.10, built on 24 October 2023

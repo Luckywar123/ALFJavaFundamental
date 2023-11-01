@@ -1,4 +1,4 @@
-package com.alfjavafundamental.Porsttest7;
+package com.alfjavafundamental.PostTest_7;
 
 public class Main {
 
