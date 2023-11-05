@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d18d2692-457e-44c1-bdfb-9cd5d1c4ce0b" name="Changes" comment="POST TEST DAY 4">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Porsttest7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PostTest_7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Prak1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Praktikum_2/hitungRataRataMenstrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Ujian 2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,6 +60,12 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -74,33 +90,24 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/LUCKYWAR123/IdeaProjects/ALFJavaFundamental/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alfjavafundamental.Praktikum_2" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.alfjavafundamental" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.alfjavafundamental.PostTest_7.Main">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HelloWorld" />
-      <module name="ALFJavaFundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hitungRataRataMenstrim">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -116,12 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.alfjavafundamental.PRAKTIKUM_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.PRAKTIKUM_1.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ALFJavaFundamental" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.alfjavafundamental.PRAKTIKUM_1.main.src.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.PRAKTIKUM_1.main.src.Main" />
       <module name="ALFJavaFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alfjavafundamental.PRAKTIKUM_1.*" />
+          <option name="PATTERN" value="com.alfjavafundamental.PRAKTIKUM_1.main.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.Main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main.Main" />
+    <configuration name="com.alfjavafundamental.Praktikum_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.Praktikum_2.Main" />
       <module name="ALFJavaFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Main.*" />
+          <option name="PATTERN" value="com.alfjavafundamental.Ujian 2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,16 +169,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ALFJavaFundamental/src/main/java/com/alfjavafundamental/test/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
+    <configuration name="hitungRataRataMenstrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfjavafundamental.Praktikum_2.hitungRataRataMenstrim" />
+      <module name="ALFJavaFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alfjavafundamental.Praktikum_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hitungRataRataMenstrim" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.com.alfjavafundamental.Praktikum_2.Main" />
+        <item itemvalue="Application.com.alfjavafundamental.PRAKTIKUM_1.main.src.Main" />
         <item itemvalue="Application.com.alfjavafundamental.PostTest_7.Main" />
-        <item itemvalue="Application.com.alfjavafundamental.PRAKTIKUM_1.Main" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.org.example.Main.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +212,11 @@
       <workItem from="1698465936410" duration="884000" />
       <workItem from="1698665975478" duration="347000" />
       <workItem from="1698724083801" duration="14007000" />
+      <workItem from="1698824772425" duration="2762000" />
+      <workItem from="1698886857077" duration="364000" />
+      <workItem from="1698926777168" duration="1715000" />
+      <workItem from="1698953465614" duration="1046000" />
+      <workItem from="1699062722507" duration="17737000" />
     </task>
     <task id="LOCAL-00001" summary="Pom push">
       <option name="closed" value="true" />
@@ -250,19 +279,20 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PRAKTIKUM_1/Main.java</url>
-          <line>5</line>
-          <properties class="com.alfjavafundamental.Main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/PostTest_7/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Ujian 2/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alfjavafundamental/Praktikum_2/hitungRataRataMenstrim.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
