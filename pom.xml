@@ -13,5 +13,32 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId></groupId>
+                <artifactId></artifactId>
+                <version></version>
+
+            </plugin>
+        </plugins>
+
+    </build>
+
 
 </project>
+
+
+<dependencies>
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter</artifactId>
+</dependency>
+<!-- Dependensi MySQL Connector -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>15.0.2000</version> <!-- Ganti versi sesuai kebutuhan Anda -->
+</dependency>
+<!-- Dependensi lainnya -->
+</dependencies>
